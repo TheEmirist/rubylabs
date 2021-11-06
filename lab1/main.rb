@@ -13,5 +13,5 @@ def foobar(number1, number2)
   return number2 if number1 == 20
   return number1 if number2 == 20
 
-  number1 * number2
+  number1 + number2
 end
